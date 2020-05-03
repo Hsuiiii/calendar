@@ -43,7 +43,7 @@ span{
 
 .container > * {
   display: flex;
-  flex-flow:;
+  flex-flow:no-wrap;
   align-items: center;
   justify-content: center;
   gap: 10px;
@@ -72,6 +72,17 @@ a{
 
 img.pig{
    width: 40%;
+
+}
+
+img.cutedog{
+   width: 80%;
+}
+
+#whitedog{
+width:200%;
+display:flex;
+align-self: center;
 
 }
 
