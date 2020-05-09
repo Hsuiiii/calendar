@@ -74,7 +74,8 @@ body {
       
       a{
       
-      color: pink;
+      color:   rgb(151, 247, 183);
+
       text-decoration: none;
       
       }
@@ -135,7 +136,7 @@ body {
     
       a{
       
-      color: lightblue;
+      color: rgb(250, 194, 250);
       text-decoration: none;
       }
       a.sunday{
